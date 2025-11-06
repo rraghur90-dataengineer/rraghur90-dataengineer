@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/📁_View_My_Portfolio-Case_Studies-blue)](https://github.com/rraghur90-dataengineer/portfolio-case-studies)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue)](https://linkedin.com/in/raghuraman-ravishankar-53146217b)
-[![Email](https://img.shields.io/badge/📧_Contact_Me-Email-red)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/📧_Contact_Me-Email-red)](mailto:rraghur90@gmail.com)
 
 </div>
 
@@ -97,10 +97,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghuraman-ravishankar-53146217b)
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:rraghur90@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Case_Studies-%23000000?style=for-the-badge&logo=github)](https://github.com/rraghur90-dataengineer/portfolio-case-studies)
 
-**📞 Phone:** +91-XXXXXXXXXX  
+**📞 Phone:** +91-9940112803  
 **📍 Current Location:** Chennai, India  
 **🎯 Target:** Data Engineering roles in US, Canada, Europe, Australia, Singapore
 
