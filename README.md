@@ -6,7 +6,7 @@
   
 *Transforming complex data challenges into scalable, efficient business solutions*
   
-**📧 rraghur90@gmail.com | 📍 Chennai, India**
+**📍 Based in Chennai, India**
 🌍 **Open to Global Opportunities | Ready to Relocate Worldwide** 🌍
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuraman-ravishankar-53146217b)
