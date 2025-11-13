@@ -96,13 +96,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghuraman-ravishankar-53146217b)
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:rraghur90@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Case_Studies-%23000000?style=for-the-badge&logo=github)](https://github.com/rraghur90-dataengineer/portfolio-case-studies)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuraman-ravishankar-53146217b)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rraghur90@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rraghur90-dataengineer/data-engineering-projects)
 
 **📞 Phone:** +91-9940112803  
-**📍 Current Location:** Chennai, India  
-**🎯 Target:** Data Engineering roles in US, Canada, Europe, Australia, Singapore
+**📍 Based in Chennai, India | Open to Relocate Worldwide**
 
 </div>
 
