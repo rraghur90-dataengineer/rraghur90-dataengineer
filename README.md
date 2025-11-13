@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Raghuraman Ravi Shankar
+# 👋 Hello, I'm Raghuraman Ravishankar
 
 **Senior Data Engineer | Cloud Architect | 12+ Years of Impact-Driven Solutions**
   
